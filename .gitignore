@@ -16,7 +16,7 @@ __pycache__
 *.o
 *.key
 
-dat
+dat/*md 
 build
 dist
 *.egg*
